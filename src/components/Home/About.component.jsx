@@ -15,7 +15,7 @@ function About() {
           <CarouselComponent />
         </article>
         <article className={styles.articletwo}>
-          <h3>
+          <h3 className={styles.passage}>
             Since 2013, Gerrel Jones has been working with Individuals and
             organizations to improve the lives of the citizens of his community.
             He began with teaching in churches, local schools and colleges. Then
