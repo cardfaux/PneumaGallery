@@ -1,0 +1,29 @@
+.title {
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5rem;
+}
+
+/* .services {
+  background-color: var(--offWhite);
+} */
+
+.excerpt {
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0 5rem 9rem 5rem;
+}
+
+.styled {
+  margin-top: 9rem;
+}
+
+.schools {
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5rem;
+  background-color: var(--offWhite);
+}

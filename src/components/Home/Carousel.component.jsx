@@ -1,6 +1,7 @@
 import React from 'react';
 import { Gallery, GalleryImage } from 'react-gesture-gallery';
 
+//import { images } from '../../data/carousel';
 import { images } from '../../components/images';
 // import image from '../../images/PG6.jpg';
 // import image2 from '../../images/PG7.jpg';

@@ -1,6 +1,7 @@
 import React from 'react';
 
 import CarouselComponent from '../../components/Home/Carousel.component';
+import StyledTitle from '../StyledTitle.component';
 import styles from '../../css/about.module.css';
 
 function About() {
@@ -15,6 +16,7 @@ function About() {
           <CarouselComponent />
         </article>
         <article className={styles.articletwo}>
+          <StyledTitle title="the" subtitle="founder" />
           <h3 className={styles.passage}>
             Since 2013, Gerrel Jones has been working with Individuals and
             organizations to improve the lives of the citizens of his community.
